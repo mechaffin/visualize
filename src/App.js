@@ -62,7 +62,7 @@ class App extends Component {
     return (
       <div className="app">
         <div className="sidebar">
-          <img className="logo" src={window.location.origin + '/images/ebclogo.png'} alt="Evergreen Basenji Club" />
+          <img className="logo" src="./images/ebclogo.png" alt="Evergreen Basenji Club" />
           <h1>Member Map</h1>
           View:
           <Select
