@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './Legend.css';
+import './Legend.scss';
 
 export const Legend = props => {
   const { entries } = props;

@@ -6,7 +6,7 @@ import 'react-select/dist/react-select.css';
 
 import { Map, Legend } from "./components";
 import { mapData } from "./data/ebc.js";
-import './App.css';
+import './App.scss';
 
 const colors = {
   red: '#C70039',

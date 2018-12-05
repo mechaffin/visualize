@@ -7,7 +7,7 @@ import {
 
 import { mapStyles } from './MapStyles.js';
 
-import './Map.css';
+import './Map.scss';
 
 
 
